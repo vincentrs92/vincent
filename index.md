@@ -6,10 +6,10 @@
 > Sensible à l'art sous toute ses formes
 > Je suis fasciné par l'architecture moderne en particulier par le nouveau tribunal de Paris. Il a dans la nuit une ame austère à contrario des tours quasi vivantes
 > dans le manga futuriste AKIRA 
-[[images/palais-justicejpg.jpg]]
+![Palais de justice de Paris](images/palais-justicejpg.jpg)
 
 > J'ai été troublé mais emerveillé par les oeuvres de __Zdzisław Beksiński__ ce peintre a réussit à me toucher au plus profond de ma psyché.
-[[images/beksinski.jpg]]
+![Oeuvre sans nom](images/beksinski.jpg)
 
 ###  Le dessin? Une purge à l'angoisse!
 
