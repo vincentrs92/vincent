@@ -1,7 +1,9 @@
 ## Portfolio Artistique
 
 ### Qui je suis vraiment ?
-![](image/vincent.png)
+<img src="images/vincent.png"
+     alt="Vincent Rousseau"
+     style="float: left; margin-right: 10px;" />
 > Je m'appelle Vincent Rousseau j'ai 23 ans,
 > Sensible à l'art sous toute ses formes
 
