@@ -8,7 +8,7 @@
 
 ### Mes projets
 
-|Dessins|Pastels||Encre de Chine|
-|--------|--------|
-|    Dessins [Lien](https://example.com/ "titre de lien optionnel")   |    B    |
-|    C    |    D    |
+|Dessins|Pastels|Encre de Chine|
+|--------|--------||--------|
+|    imagination [Dessins](draw.md)   |    Mes paysages[Pastels](pastel.md)   |    essais [Dessins](ink.md)    |
+
