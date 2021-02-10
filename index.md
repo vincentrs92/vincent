@@ -10,5 +10,5 @@
 
 |Dessins|Pastels|Encre de Chine|
 |--------|--------||--------|
-|    [imagination_Dessins](draw.md)   |    [Mes paysages_Pastels](pastel.md)   |    [essais_encre_de_chine](ink.md)    |
+|    [imagination](draw.md)   |    [paysages](pastel.md)   |    [essais](ink.md)    |
 
