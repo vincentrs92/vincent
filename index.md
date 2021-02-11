@@ -11,12 +11,44 @@
 <a href="https://www.instagram.com/vincent.rs"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 </p>
-<p align="center">
-<h3> Encre de chine </h3>
-<a href="ink.md"><img title="Encre de Chine" src="images/femme.jpg" height='195'></a>
-<h3> Pastel </h3>
-<a href="pastel.md"><img title="Pastel" src="images/ciel-p.png" height='195'></a>
-<h3> Dessin </h3>
-<a href="draw.md"><img title="Dessin" src="images/pensée.png" height='195'></a>
-</p>
+
+## Liens vers mes travaux :
+| Encre de chine      |    Pastel    |   Dessin |
+| ------------- |: -------------: | ---------: |
+| ink.md      |        pastel.md        |     draw.md |
+
+----------------------------------------------------------
+
+### Qui est Vincent ?
+
+> Je m'appelle Vincent, j'ai 23ans. Depuis toujours j'aime créer.
+> J'ai commencé à gribouiller des monstres très tot. 
+
+## Où as tu le plus pratiqué le dessin ? Qui t'a le plus marqué?
+> Je pratiquais le plus entre les cours dans mes lycées.
+> Le lycée m'a permis de  créer beaucoup de choses j'ai rencontré par la même occasion des gens extras durant cet age d'or.
+> [remerciements] (remerciements.md "remerciements")
+
+### Quels types de dessins ?
+
+> J'imagine des visages et certaines fois des personnages posant. J'ai un plaisir à essayer d'ajouter des détails insoupçonnés
+> Je dirais aussi des monstres ou des scènes fortes en senstations.
+> Des paysages aussi ...
+
+### Quels sont les prochains projets ?
+Je vais continuer ma première bande dessinnée que je réalise pour ma famille.
+__Je suis extrêmement soucieux de raconter par le dessin le fruit de ma pensée:__
+
+-----------------------------------------------------------------------------
+
+J'aimerai aussi apprendre le système des ombres en dessins ainsin que les proportions
+
+###
+
+
+
+__J'aime partir de rien. La page blanche est angoissante mais un simple trait stimule l'imagination et le processus de création__
+
+
+
 
