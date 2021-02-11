@@ -1,6 +1,6 @@
 ##  Vincent Rousseau
 <p align="center"><img src="images/vincent.png" height='195' alt="Vincent Rousseau">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ct9ipKktK8o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="360" height="315" src="https://www.youtube.com/embed/Ct9ipKktK8o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
@@ -12,11 +12,11 @@
 
 </p>
 <p align="center">
-### Encre de Chine
+<h3> Encre de chine </h3>
 <a href="ink.md"><img title="Encre de Chine" src="images/femme.jpg" height='195'></a>
-### Pastel
+<h3> Pastel </h3>
 <a href="pastel.md"><img title="Pastel" src="images/ciel-p.png" height='195'></a>
-### Dessins
+<h3> Dessin </h3>
 <a href="draw"><img title="Dessin" src="images/pensée.png"height='195'></a>
 </p>
 
