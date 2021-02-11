@@ -17,6 +17,6 @@
 <h3> Pastel </h3>
 <a href="pastel.md"><img title="Pastel" src="images/ciel-p.png" height='195'></a>
 <h3> Dessin </h3>
-<a href="draw"><img title="Dessin" src="images/pensée.png"height='195'></a>
+<a href="draw.md"><img title="Dessin" src="images/pensée.png" height='195'></a>
 </p>
 
