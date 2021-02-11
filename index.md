@@ -20,15 +20,17 @@
 
 ----------------------------------------------------------
 
-### Qui est Vincent ?
+# Qui est Vincent ?
 
 > Je m'appelle Vincent, j'ai 23ans. Depuis toujours j'aime créer.
-> J'ai commencé à gribouiller des monstres très tot. 
+
+### Depuis quand?
+> J'ai commencé à gribouiller très tot. J'ai toujours déssiné
 
 ## Où as tu le plus pratiqué le dessin ? Qui t'a le plus marqué?
 > Je pratiquais le plus entre les cours dans mes lycées.
 > Le lycée m'a permis de  créer beaucoup de choses j'ai rencontré par la même occasion des gens extras durant cet age d'or.
-> [remerciements] (remerciements.md "remerciements")
+> [remerciements](remerciements.md)
 
 ### Quels types de dessins ?
 
