@@ -13,8 +13,10 @@
 </p>
 
 ## Liens vers mes travaux :
-| Encre de chine      |    Pastel    |   Dessin |
-| ink.md      |        pastel.md        |     draw.md |
+
+| Encre de chine | Pastel    | Dessin  |
+|----------------|-----------|---------|
+| ink.md         | pastel.md | draw.md |
 
 ----------------------------------------------------------
 
