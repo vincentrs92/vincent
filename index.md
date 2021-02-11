@@ -16,7 +16,7 @@
 
 | Encre de chine | Pastel    | Dessin  |
 |----------------|-----------|---------|
-| ![lien](ink.md)    | ![lien](pastel.md) | ![lien](draw.md) |
+| [lien](ink.md)    | [lien](pastel.md) | [lien](draw.md) |
 
 ----------------------------------------------------------
 
