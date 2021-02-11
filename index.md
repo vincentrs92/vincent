@@ -14,7 +14,6 @@
 
 ## Liens vers mes travaux :
 | Encre de chine      |    Pastel    |   Dessin |
-| ------------- |: -------------: | ---------: |
 | ink.md      |        pastel.md        |     draw.md |
 
 ----------------------------------------------------------
@@ -42,8 +41,6 @@ __Je suis extrêmement soucieux de raconter par le dessin le fruit de ma pensée
 -----------------------------------------------------------------------------
 
 J'aimerai aussi apprendre le système des ombres en dessins ainsin que les proportions
-
-###
 
 
 
