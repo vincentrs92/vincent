@@ -1,17 +1,21 @@
-## Portfolio Artistique
-
-### Qui je suis vraiment ?
-
-
-<img alt="Vincent Rousseau" src="images/vincent.png" width="50" height="50">
-
-> Je m'appelle Vincent Rousseau j'ai 23 ans,
-> Sensible à l'art sous toute ses formes
+##  Vincent Rousseau
+<p align="center"><img src="images/vincent.png" height='195' alt="Vincent Rousseau">
+<video width="320" height="240" controls>
+      <source src=”https://www.youtube.com/watch?v=n__hmL6nJP8&t=24s” type=video/ogg>
+    </video>
+</p>
 
 
-### Mes projets
 
-|Dessins|Pastels|Encre de Chine|
-|--------|--------||--------|
-|    [imagination](draw.md)   |    [paysages](pastel.md)   |    [essais](ink.md)    |
+<p align="center">
+<a href="https://facebook.com/vincentrs92"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
+<a href="https://m.me/vincentrs92"><img title="Messenger" src="https://img.shields.io/badge/Messenger-red?style=for-the-badge&logo=messenger"></a>
+<a href="https://www.instagram.com/vincent.rs"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+</p>
+<p align="center">
+<a href="ink.md"><img title="Encre de Chine" src=""></a>
+<a href="pastel.md"><img title="Pastel" src=""></a>
+<a href="draw"><img title="Dessin" src=""></a>
+<a href="https://github.com/htr-tech/uncompyle"><img title="Uncompyle" src="https://github-readme-stats.vercel.app/api/pin/?username=htr-tech&repo=uncompyle&theme=dark"></a>
+</p>
 
