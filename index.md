@@ -18,6 +18,15 @@
 |----------------|-----------|---------|
 | [lien](ink.md)    | [lien](pastel.md) | [lien](draw.md) |
 
+
+## Liens vers mes inspirations :
+
+| Inspirations |
+|----------------|
+| [Gotlib](inspirations/gotlib.md) |
+| [Zdzisław Beksiński](inspirations/beksinski.md) |
+| [Berserk](inspirations/berserk.md) |
+
 ----------------------------------------------------------
 
 # Qui est Vincent ?
